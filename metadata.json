@@ -1,0 +1,6 @@
+{
+  "name": "SinisterKey // Ergonomic Left-Hand Offline Password Engine",
+  "description": "Zero-network, completely local offline password generator optimized for rapid left-hand typing, ergonomic flow, and cryptographic entropy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
